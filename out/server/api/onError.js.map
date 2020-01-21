@@ -1,0 +1,1 @@
+{"version":3,"file":"onError.js","sourceRoot":"","sources":["../../../server/api/onError.ts"],"names":[],"mappings":";;AAEA,SAAgB,OAAO,CAAC,GAAa,EAAE,OAAe,EAAE,GAAQ;IAC5D,OAAO,CAAC,KAAK,CAAC,qBAAqB,EAAE,OAAO,EAAE,GAAG,CAAC,CAAC;IACnD,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,EAAE,CAAC;AAC3B,CAAC;AAHD,0BAGC"}

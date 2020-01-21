@@ -1,0 +1,1 @@
+{"version":3,"file":"findAllCourses.js","sourceRoot":"","sources":["../../../server/queries/findAllCourses.ts"],"names":[],"mappings":";;;;;AAAA,gEAAwC;AAExC,SAAgB,cAAc;IAC1B,OAAO,iBAAO,CAAC,OAAO,CAAC;QACnB,KAAK,EAAE,CAAC,OAAO,CAAC;KACnB,CAAC,CAAA;AACN,CAAC;AAJD,wCAIC"}

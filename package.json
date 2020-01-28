@@ -7,7 +7,12 @@
     "start": "DEBUG=express:router ./node_modules/.bin/ts-node ./server/server.ts",
     "watch": "./node_modules/.bin/nodemon -W . --ext \".ts\" --exec \"npm run start\"",
     "debug": "set DEBUG=express:* & npm run watch",
-    "es6": "./node_modules/.bin/http-server -c1 ."
+    "es6": "./node_modules/.bin/http-server -c1 .",
+    "oo": "./node_modules/.bin/ts-node ./samples/object-oriented.ts",
+    "watch:oo": "./node_modules/.bin/nodemon -W . --ext \".ts\" --exec \"npm run oo\"",
+    "decorators": "./node_modules/.bin/ts-node ./samples/decorators.ts",
+    "watch:decorators": "./node_modules/.bin/nodemon -W . --ext \".ts\" --exec \"npm run decorators\""
+    
   },
   "author": "",
   "license": "ISC",

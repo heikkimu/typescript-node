@@ -4,10 +4,10 @@ import { sequelize } from './model';
 class Lessons extends Model { }
 
 Lessons.init({
-    id: {
-        type: DataTypes.INTEGER,
-        primaryKey: true
-    },
+    // id: {
+    //     type: DataTypes.INTEGER,
+    //     primaryKey: true
+    // },
     url: DataTypes.STRING,
     description: DataTypes.STRING,
     duration: DataTypes.STRING,

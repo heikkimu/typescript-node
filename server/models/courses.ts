@@ -5,10 +5,10 @@ import Lessons from './lessons';
 class Courses extends Model { }
 
 Courses.init({
-    id: {
-        type: DataTypes.INTEGER,
-        primaryKey: true
-    },
+    // id: {
+    //     type: DataTypes.INTEGER,
+    //     primaryKey: true
+    // },
     description: DataTypes.STRING,
     url: DataTypes.STRING,
     longDescription: DataTypes.TEXT,

@@ -12,7 +12,6 @@
     "watch:oo": "./node_modules/.bin/nodemon -W . --ext \".ts\" --exec \"npm run oo\"",
     "decorators": "./node_modules/.bin/ts-node ./samples/decorators.ts",
     "watch:decorators": "./node_modules/.bin/nodemon -W . --ext \".ts\" --exec \"npm run decorators\""
-    
   },
   "author": "",
   "license": "ISC",

@@ -8,7 +8,7 @@ export interface CourseSummary {
 }
 
 export function createCourseSummary({
-    id,
+    id: id,
     url,
     description,
     iconUrl,
